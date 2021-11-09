@@ -1,7 +1,7 @@
 # queccabytes
 Numbers from 2 powered by 1 to 100 in SI prefix
 
-Running the main() function will show following:
+Running the [main()](https://github.com/joelhandwell/queccabytes/blob/master/src/main/kotlin/Main.kt) function will show following:
 
 ```
 2 ^   1 =       2 B = 2
